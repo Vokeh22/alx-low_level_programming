@@ -10,6 +10,6 @@ int main(void)
 	printf("char");
 	printf("int");
 	printf("float");
-	printf("double);
+	printf("double");
 	return (0);
 }
